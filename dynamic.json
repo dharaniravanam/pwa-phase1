@@ -1,0 +1,45 @@
+{
+	"profile": {
+		"img": "profile.png",
+		"name": "RAVANAM DHARANI",
+		"roll": "17a31a1229",
+		"institute": "pagati engg clg",
+		"place": "kakinada"
+	},
+	"career": {
+		"info": "to secure a challenging position in your company"
+	},
+	"education": [{
+			"s.no": "1",
+			"degree": "btech",
+			"institute": "pagati engg clg",
+			"yop": "2021"
+		},
+		{
+
+			"s.no": "2",
+			"degree": "inter",
+			"institute": "C V raman jr clg",
+			"yop": "2017"
+
+		},
+		{
+
+			"s.no": "3",
+			"degree": "ssc",
+			"institute": "DAV model school",
+			"yop": "2015"
+		}
+	],
+	"laguages": [{
+			"lang": "english"
+		},
+		{
+			"lang": "hindi"
+		},
+		{
+			"lang": "telugu"
+		}
+	]
+
+}
